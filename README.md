@@ -7,3 +7,5 @@ https://www.kaggle.com/vikramtiwari/mnist-numpy
 Extract the dataset in the same folder as this notebook.
 
 This deep neural network can give 99.13% accuracy on train images and 99.12% accuracy on test images.
+
+After adding convolution and pooling layer in the neural network, model gives 99.84% accuracy on train and test images.
